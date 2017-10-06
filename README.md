@@ -1,5 +1,4 @@
 # dotabap-list
-The dotabap list
 
 Requirements
 * 1000+ lines of ABAP code, ABAP as primary language
