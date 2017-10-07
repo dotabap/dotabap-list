@@ -1,4 +1,9 @@
 {
+  "abapCov":
+	{ 
+		"git_url": "https://github.com/larshp/abapCov.git",
+		"description": "Upload ABAP unit test code coverage to codecov.io"
+	},
   "abap2xlsx": 
 	{ 
 		"description": "Generate your professional Excel spreadsheet from ABAP",
