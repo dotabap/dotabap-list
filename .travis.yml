@@ -4,6 +4,10 @@ node_js:
 notifications:
   email: false
 install:
-  - ls
+  - cd ..
+  - git clone https://github.com/dotabap/dotabap-validator.git
+  - cd dotabap-validator
+  - npm install
+  - cd ..
 script:
-  - ls -l
+  - dotabap-validator/validator dotabap-list/list.json
