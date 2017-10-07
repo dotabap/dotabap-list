@@ -1,4 +1,74 @@
 {
+  "abap-log":
+	{ 
+		"git_url": "https://github.com/flaiker/abap-log.git",
+		"description": "Logging library for ABAP"
+	},  	
+  "ABAP-Logger":
+	{ 
+		"git_url": "https://github.com/epeterson320/ABAP-Logger.git",
+		"description": "ABAP Logging as painless as any other language"
+	},  		
+  "mockup_loader":
+	{ 
+		"git_url": "https://github.com/sbcgua/mockup_loader.git",
+		"description": "SAP ABAP tool for unit testing"
+	},  	
+  "abap-markdown": 
+	{ 
+		"git_url": "https://github.com/koemaeda/abap-markdown.git",
+		"description": "ABAP markdown parser"
+	},	
+  "Moose-FAMIX-SAP-Extractor": 
+	{ 
+		"git_url": "https://github.com/RainerWinkler/Moose-FAMIX-SAP-Extractor.git",
+		"description": "An project to extract model data from a SAP system with FAMIX and Moose"
+	},		
+  "abapOpenChecks": 
+	{ 
+		"git_url": "https://github.com/larshp/abapOpenChecks.git",
+		"description": "Open source checks for SAP Code Inspector / ABAP Test Cockpit"
+	},
+  "abapOrion": 
+	{ 
+		"git_url": "https://github.com/larshp/abapOrion.git",
+		"description": "Client implementation of Eclipse Orion protocol in ABAP for use with SAP HANA"
+	},	
+  "abapOpenReview": 
+	{ 
+		"git_url": "https://github.com/larshp/abapOpenReview.git",
+		"description": "ABAP Review Tool"
+	},		
+  "upDOWNci": 
+	{ 
+		"git_url": "https://github.com/larshp/upDOWNci.git",
+		"description": "Upload and download SAP Code Inspector variants in XML format"
+	},
+  "FORMfactor": 
+	{ 
+		"git_url": "https://github.com/larshp/FORMfactor.git",
+		"description": "Refactor FORMs to local classes"
+	},	
+  "ebid-abap-client": 
+	{ 
+		"git_url": "https://github.com/gregorwolf/ebid-abap-client.git",
+		"description": "ABAP Client for the http://www.unternehmensverzeichnis.org REST API"
+	},	
+  "AES": 
+	{ 
+		"git_url": "https://github.com/Sumu-Ning/AES.git",
+		"description": "ABAP Utilities for AES/Rijndael encryption, decryption"
+	},	
+  "falv": 
+	{ 
+		"git_url": "https://github.com/fidley/falv.git",
+		"description": "FALV - Fast ALV Grid"
+	},	
+  "Datamatrix": 
+	{ 
+		"git_url": "https://github.com/larshp/Datamatrix.git",
+		"description": "Datamatrix implemented in ABAP using smartforms"
+	},	
   "abapCov":
 	{ 
 		"git_url": "https://github.com/larshp/abapCov.git",
