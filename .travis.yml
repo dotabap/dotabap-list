@@ -5,3 +5,5 @@ notifications:
   email: false
 install:
   - ls
+script:
+  - ls -l
