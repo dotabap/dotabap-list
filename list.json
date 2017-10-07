@@ -1,7 +1,7 @@
 {
   "abap2xlsx": 
 	{ 
-		"title": "https://github.com/ivanfemia/abap2xlsx.git",
 		"description": "Generate your professional Excel spreadsheet from ABAP"
+		"git": "https://github.com/ivanfemia/abap2xlsx.git",		
 	}
 }
