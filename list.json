@@ -19,9 +19,9 @@
 		"git_url": "https://github.com/koemaeda/abap-markdown.git",
 		"description": "ABAP markdown parser"
 	},	
-  "Moose-FAMIX-SAP-Extractor": 
+  "SAP2Moose": 
 	{ 
-		"git_url": "https://github.com/RainerWinkler/Moose-FAMIX-SAP-Extractor.git",
+		"git_url": "https://github.com/SAP2Moose/SAP2Moose.git",
 		"description": "An project to extract model data from a SAP system with FAMIX and Moose"
 	},		
   "abapOpenChecks": 
