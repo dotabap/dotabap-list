@@ -5,6 +5,7 @@
   "SAP2Moose/SAP2Moose",
   "ivanfemia/abap2xlsx",
   "gregorwolf/ebid-abap-client",
+  "galileo-group/galileo-abap-lib",
   "Sumu-Ning/AES",
   "fidley/falv",
   "larshp/Datamatrix",
