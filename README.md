@@ -10,4 +10,4 @@ Requirements
 * Open source license(https://opensource.org/licenses)
 * Hosted on github.com(more git based hosts to be added later)
 
-https://dotabap.github.io/dotabap-list/list.json
+http://list.dotabap.org/list.json
