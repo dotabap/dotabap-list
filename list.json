@@ -3,6 +3,8 @@
   "epeterson320/ABAP-Logger",
   "koemaeda/abap-markdown",
   "SAP2Moose/SAP2Moose",
+  "cesar-sap/abap_geocoder_ces",
+  "cesar-sap/abap_fm_json",
   "ivanfemia/abap2xlsx",
   "nomssi/abap_scheme",
   "beraadim/zcl_pdf",
