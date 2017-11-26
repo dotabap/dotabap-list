@@ -8,6 +8,7 @@
   "ivanfemia/abap2xlsx",
   "nomssi/abap_scheme",
   "beraadim/zcl_pdf",
+  "ycohen-dev/hcm-time-constraint-utils",
   "gregorwolf/ebid-abap-client",
   "ceedee666/acr_gol",
   "jasper07/Teched17",
