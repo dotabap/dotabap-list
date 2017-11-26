@@ -8,6 +8,6 @@ Requirements
 * 500+ lines of ABAP code
 * abapGit based
 * Open source license(https://opensource.org/licenses)
-* Hosted on github.com(more git based hosts to be added later)
+* Hosted on GitHub(more git based hosts to be added later)
 
 http://list.dotabap.org/list.json
