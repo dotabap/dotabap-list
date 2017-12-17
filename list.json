@@ -8,6 +8,7 @@
   "ivanfemia/abap2xlsx",
   "nomssi/abap_scheme",
   "theits/CharmMylynConnector",
+  "objective-partner/abap_debugger_data_view_extension",
   "beraadim/zcl_pdf",
   "ycohen-dev/hcm-time-constraint-utils",
   "gregorwolf/ebid-abap-client",
