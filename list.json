@@ -7,6 +7,7 @@
   "cesar-sap/abap_fm_json",
   "ivanfemia/abap2xlsx",
   "nomssi/abap_scheme",
+  "theits/CharmMylynConnector",
   "beraadim/zcl_pdf",
   "ycohen-dev/hcm-time-constraint-utils",
   "gregorwolf/ebid-abap-client",
