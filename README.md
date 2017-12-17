@@ -5,7 +5,7 @@
 Requirements
 * Public repository
 * ABAP as primary language
-* 500+ lines of ABAP code
+* Around 500+ lines of ABAP code
 * abapGit based
 * Open source license(https://opensource.org/licenses)
 * Hosted on GitHub(more git based hosts to be added later)
