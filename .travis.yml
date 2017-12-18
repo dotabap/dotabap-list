@@ -14,7 +14,6 @@ script:
 - dotabap-validator/validator dotabap-list/list.json $GITHUB_READ > dotabap-generated/generated.json
 after_success:
 - cd dotabap-generated
-- cat generated.json
 - git status
 env:
   global:
