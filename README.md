@@ -2,7 +2,7 @@
 
 # dotabap-list
 
-Requirements
+Requirements:
 * Public repository
 * ABAP as primary language
 * Around 500+ lines of ABAP code
@@ -10,4 +10,4 @@ Requirements
 * Open source license(https://opensource.org/licenses)
 * Hosted on GitHub(more git based hosts to be added later)
 
-http://list.dotabap.org/list.json
+Access via: http://list.dotabap.org/list.json
