@@ -6,11 +6,16 @@ notifications:
 install:
 - cd ..
 - git clone https://github.com/dotabap/dotabap-validator.git
+- git clone https://github.com/dotabap/dotabap-generated.git
 - cd dotabap-validator
 - npm install
 - cd ..
 script:
-- dotabap-validator/validator dotabap-list/list.json $GITHUB_READ
+- dotabap-validator/validator dotabap-list/list.json $GITHUB_READ > dotabap-generated/generated.json
+after_success:
+- cd dotabap-generated
+- cat generated.json
+- git status
 env:
   global:
     secure: UrXInTEJ/nGIaAbm/ETyNyR+/SQMTOgkGq+OG62FMpA7mrh4/GtgzdgEHv3f3P88vx6GKTNA+l4Bc0gaixqtqwX7mrfyQ+QCIpRtyjJXRUEEynVHkYrTJtxYPo9kKvo/f75lKiLrvVNhvXqkHpq6rpYYzFighOj3BFj41Wujq5pq5lYqt3aqbMwnytIzeWcxYpPBbcVv4z3LV1sKj1Gxb9+0AwkNdZQcjBpnlrZAO4QESK+byfEOqKlDGsGc09dED0/Gska7NBzImO9FTbm+8wlTqO2u51JLWAr5Ut9JlnW/9ZAnuKJCtR15k/SNldrwJKEZ5ksGFe/RS3xdmWEIlr/hKKGGdqbyIy62wjVXz+SziLZToesEH0RdgzDiqCVX34s7nzkKmgzbRwGCs7d9si1AlYtl0x/R8Gn+6CRRQwqcLDj2j614+8pNO245RrWTez8N2Mf+eshraRLBZlhYOWXxUHlgH++Cf+it1KpLPimqLj5A2VmhJO4XzCeajWZXj0+MLuvCXtqHsPdbVq3tgtmKwFp3CeY7d9uRP+OOPOyLVxID61YwWzQ0kZtGby/CsXUOJDWdvpAf0NWs5Q3zrAwno0CW2G7Qonimt43+xku28G9fwk48UCYAWLOzBr9314LCQnORYYxfDVx0O0a5wCtuKzfINj8HohAaWM7rsBo=
