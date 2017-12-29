@@ -41,6 +41,7 @@
   "sbcgua/abap_mustache",
   "sbcgua/abap_w3mi_poller",
   "se38/SchemA",
+  "se38/zJSON",
   "VishnAndr/zuiddlb",
   "pixelbaker/ABAP-RayTracer",
   "abramsba/abapLisp"
