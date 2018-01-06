@@ -5,6 +5,7 @@
   "SAP2Moose/SAP2Moose",
   "cesar-sap/abap_geocoder_ces",
   "cesar-sap/abap_fm_json",
+  "larshp/abapGit",
   "thedoginthewok/ZwdFTP",
   "thedoginthewok/ZwdHangman",
   "ivanfemia/abap2xlsx",
