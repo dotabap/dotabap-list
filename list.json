@@ -6,6 +6,7 @@
   "cesar-sap/abap_geocoder_ces",
   "cesar-sap/abap_fm_json",
   "larshp/abapGit",
+  "pacroy/abap-prometheus",
   "thedoginthewok/ZwdFTP",
   "thedoginthewok/ZwdHangman",
   "ivanfemia/abap2xlsx",
