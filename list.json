@@ -6,6 +6,7 @@
   "cesar-sap/abap_geocoder_ces",
   "cesar-sap/abap_fm_json",
   "larshp/abapGit",
+  "Keller-Michael/synchronize-SAP-GUI-favorites",
   "pacroy/abap-prometheus",
   "thedoginthewok/ZwdFTP",
   "christianguenter2/ABAP_conways_game_of_life",
