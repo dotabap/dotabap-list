@@ -5,6 +5,7 @@
   "SAP2Moose/SAP2Moose",
   "cesar-sap/abap_geocoder_ces",
   "cesar-sap/abap_fm_json",
+  "bizhuka/xtt",
   "larshp/abapGit",
   "Keller-Michael/synchronize-SAP-GUI-favorites",
   "pacroy/abap-prometheus",
