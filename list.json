@@ -10,6 +10,7 @@
   "larshp/abapGit",
   "Keller-Michael/synchronize-SAP-GUI-favorites",
   "pacroy/abap-prometheus",
+  "cesar-sap/abap_kafka_rest_proxy",
   "thedoginthewok/ZwdFTP",
   "christianguenter2/ABAP_conways_game_of_life",
   "tricktresor/alv_grid",
