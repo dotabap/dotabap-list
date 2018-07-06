@@ -1,6 +1,7 @@
 [
   "flaiker/abap-log",
   "epeterson320/ABAP-Logger",
+  "tricktresor/gladius",
   "koemaeda/abap-markdown",
   "SAP2Moose/SAP2Moose",
   "cesar-sap/abap_geocoder_ces",
