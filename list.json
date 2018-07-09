@@ -58,5 +58,6 @@
   "VishnAndr/zuiddlb",
   "pixelbaker/ABAP-RayTracer",
   "abramsba/abapLisp",
-  "btc-ag/Featuretoggle"
+  "btc-ag/Featuretoggle",
+  "mkysoft/uid64"
 ]
