@@ -59,5 +59,6 @@
   "pixelbaker/ABAP-RayTracer",
   "abramsba/abapLisp",
   "btc-ag/Featuretoggle",
-  "mkysoft/uid64"
+  "mkysoft/uid64",
+  "APM-SAP-Client"
 ]
