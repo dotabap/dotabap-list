@@ -6,6 +6,7 @@
   "SAP2Moose/SAP2Moose",
   "cesar-sap/abap_geocoder_ces",
   "cesar-sap/abap_fm_json",
+  "abapGit/background_modes",
   "bizhuka/xtt",
   "bizhuka/aqo",
   "Microsoft/ABAP-SDK-for-Azure",
