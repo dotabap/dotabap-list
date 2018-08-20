@@ -57,6 +57,7 @@
   "sbcgua/abap_w3mi_poller",
   "se38/SchemA",
   "se38/zJSON",
+  "se38/abapFaker",
   "VishnAndr/zuiddlb",
   "pixelbaker/ABAP-RayTracer",
   "abramsba/abapLisp",
