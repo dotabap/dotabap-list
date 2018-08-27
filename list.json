@@ -8,6 +8,8 @@
   "cesar-sap/abap_fm_json",
   "abapGit/background_modes",
   "INVIXO/abapMQ",
+  "oliverit/json.abap",
+  "oliverit/express.abap",
   "bizhuka/xtt",
   "bizhuka/aqo",
   "Microsoft/ABAP-SDK-for-Azure",
