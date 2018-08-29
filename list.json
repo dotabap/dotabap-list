@@ -5,6 +5,7 @@
   "koemaeda/abap-markdown",
   "SAP2Moose/SAP2Moose",
   "cesar-sap/abap_geocoder_ces",
+  "MDJoerg/MQBA",
   "cesar-sap/abap_fm_json",
   "abapGit/background_modes",
   "INVIXO/abapMQ",
