@@ -12,6 +12,7 @@
   "oliverit/json.abap",
   "oliverit/express.abap",
   "bizhuka/xtt",
+  "marcellourbani/abap_debugger_object_graph_extension",
   "bizhuka/aqo",
   "Microsoft/ABAP-SDK-for-Azure",
   "larshp/abapGit",
