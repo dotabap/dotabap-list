@@ -67,6 +67,5 @@
   "pixelbaker/ABAP-RayTracer",
   "abramsba/abapLisp",
   "btc-ag/Featuretoggle",
-  "mkysoft/uid64",
-  "marcellourbani/abapgraph"
+  "mkysoft/uid64"
 ]
