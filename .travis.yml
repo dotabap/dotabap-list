@@ -9,6 +9,7 @@ install:
 - git clone https://github.com/dotabap/dotabap-generated.git
 - cd dotabap-validator
 - npm install
+- npm ls
 - cd ..
 script:
 - dotabap-validator/validator dotabap-list/list.json $GITHUB_READ > dotabap-generated/generated.json
