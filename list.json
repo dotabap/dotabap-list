@@ -7,6 +7,7 @@
   "uweku/mockA",
   "pacroy/abap-fluentd",
   "SAP2Moose/SAP2Moose",
+  "swixfort/Sdw.Abap.Di",
   "damir-majer/ABAPKoans",
   "cesar-sap/abap_geocoder_ces",
   "SAP/abap-alv-google-upload-sheet",
