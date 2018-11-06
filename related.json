@@ -1,6 +1,7 @@
 [
   "fidley/ABAPFavorites",
   "andau/abapCI",
+  "sapmentors/SAPlink",
   "FreHu/abap-snippets",
   "marcellourbani/vscode_abap_remote_fs",
   "larshp/abaplint"
