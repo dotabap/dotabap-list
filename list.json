@@ -5,6 +5,8 @@
   "koemaeda/abap-markdown",
   "tricktresor/guidrasil",
   "uweku/mockA",
+  "rayatus/sapbugtracker",
+  "rayatus/sapcodegenerator",
   "pawelwiejkut/bw_trfn_pocketknife",
   "pawelwiejkut/bw_toolbox",
   "pacroy/abap-fluentd",
