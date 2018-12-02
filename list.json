@@ -2,6 +2,8 @@
   "flaiker/abap-log",
   "epeterson320/ABAP-Logger",
   "tricktresor/gladius",
+  "ivanfemia/abap2gapps",
+  "ivanfemia/abap2oauth2",
   "koemaeda/abap-markdown",
   "tricktresor/guidrasil",
   "uweku/mockA",
