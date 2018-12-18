@@ -3,6 +3,7 @@
   "andau/abapCI",
   "sapmentors/SAPlink",
   "FreHu/abap-snippets",
+  "trr-official/abapunit2junit",
   "marcellourbani/vscode_abap_remote_fs",
   "larshp/abaplint"
 ]
