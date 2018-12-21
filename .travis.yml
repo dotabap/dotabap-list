@@ -12,7 +12,7 @@ install:
 - npm ls
 - cd ..
 script:
-- dotabap-validator/validator dotabap-list/list.json $GITHUB_READ > dotabap-generated/generated.json
+- dotabap-validator/generate dotabap-list/list.json $GITHUB_READ > dotabap-generated/generated.json
 # - dotabap-validator/validator dotabap-list/related.json $GITHUB_READ -n > dotabap-generated/related.json
 after_success:
 - cd dotabap-generated
