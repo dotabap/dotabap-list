@@ -6,6 +6,8 @@
   "ivanfemia/abap2oauth2",
   "koemaeda/abap-markdown",
   "tricktresor/guidrasil",
+  "flaiker/ci-lib",
+  "sbcgua/abap_gui_boilerplate",
   "uweku/mockA",
   "fidley/JSON2ABAPType",
   "rayatus/sapbugtracker",
