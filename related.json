@@ -5,5 +5,7 @@
   "FreHu/abap-snippets",
   "trr-official/abapunit2junit",
   "marcellourbani/vscode_abap_remote_fs",
+  "larshp/codemirror-abap",
+  "pvl/abap.tmbundle",
   "larshp/abaplint"
 ]
