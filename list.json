@@ -8,6 +8,7 @@
   "tricktresor/guidrasil",
   "flaiker/ci-lib",
   "sbcgua/abap_gui_boilerplate",
+  "rulerunner/rulerunner4ABAP",
   "uweku/mockA",
   "fidley/JSON2ABAPType",
   "rayatus/sapbugtracker",
