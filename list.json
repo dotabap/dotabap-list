@@ -10,6 +10,7 @@
   "sbcgua/abap_gui_boilerplate",
   "Kaufland/abap_oo_patterns",
   "uweku/mockA",
+  "pacroy/abap-design-patterns",
   "fidley/JSON2ABAPType",
   "rayatus/sapbugtracker",
   "rayatus/sapcodegenerator",
