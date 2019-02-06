@@ -3,6 +3,7 @@
   "andau/abapCI",
   "andau/abap-code-insight",
   "sapmentors/SAPlink",
+  "trockenasche/SAPScript-for-Notepad-plusplus",
   "FreHu/abap-snippets",
   "trr-official/abapunit2junit",
   "marcellourbani/vscode_abap_remote_fs",
