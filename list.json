@@ -9,6 +9,7 @@
   "flaiker/ci-lib",
   "sbcgua/abap_gui_boilerplate",
   "Kaufland/abap_oo_patterns",
+  "abapGit/abap_git_hosts_apis",
   "uweku/mockA",
   "rayatus/sapinterfacemonitor",
   "sap-russia/ZRS_ABAP_SOURCE_SCAN",
