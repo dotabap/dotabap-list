@@ -98,5 +98,6 @@
   "irodrigob/alv_utilities",
   "atudor2/abap-pwnedpasswords",
   "fatihpense/zcl_mdp_json",
-  "pokrakam/SAPlink-Git"
+  "pokrakam/SAPlink-Git",
+  "gprs555/abap-soql-query"
 ]
