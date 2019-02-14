@@ -9,6 +9,7 @@
   "Keller-Michael/cellular_automaton",
   "flaiker/ci-lib",
   "sbcgua/abap_gui_boilerplate",
+  "rulerunner/rulerunner4ABAP",
   "Kaufland/abap_oo_patterns",
   "abapGit/abap_git_hosts_apis",
   "uweku/mockA",
