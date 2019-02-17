@@ -46,6 +46,7 @@
   "pacroy/abap-prometheus",
   "cesar-sap/abap_kafka_rest_proxy",
   "thedoginthewok/ZwdFTP",
+  "thedoginthewok/ZwdCSV",
   "thedoginthewok/ZwdDynscreen",
   "thedoginthewok/ZwdSudoku",
   "christianguenter2/ABAP_conways_game_of_life",
