@@ -2,6 +2,7 @@
   "fidley/ABAPFavorites",
   "andau/abapCI",
   "andau/abap-code-insight",
+  "trr-official/abapunit2junit",
   "sapmentors/SAPlink",
   "trockenasche/SAPScript-for-Notepad-plusplus",
   "FreHu/abap-snippets",
