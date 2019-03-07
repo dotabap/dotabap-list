@@ -10,6 +10,8 @@
   "flaiker/ci-lib",
   "Keller-Michael/selection-criteria-as-class",
   "sbcgua/abap_gui_boilerplate",
+  "SAP/abap-platform-yy",
+  "SAP/abap-platform-jak",
   "rulerunner/rulerunner4ABAP",
   "Kaufland/abap_oo_patterns",
   "hardyp/AbapToTheFuture03",
