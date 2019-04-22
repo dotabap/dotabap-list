@@ -111,5 +111,6 @@
   "gprs555/abap-soql-query",
   "DennstedtB/ZPDYNMAS",
   "jjtorres8/ZRPCLSTXE",
-  "abapChaoLiu/abap_seltab_to_where"
+  "abapChaoLiu/abap_seltab_to_where",
+  "engswee/equalize-idoc-framework"
 ]
