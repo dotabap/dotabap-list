@@ -12,5 +12,6 @@
   "marcellourbani/vscode_abap_remote_fs",
   "larshp/codemirror-abap",
   "pvl/abap.tmbundle",
-  "larshp/abaplint"
+  "larshp/abaplint",
+  "ilyakaznacheev/abap-best-practice"
 ]
