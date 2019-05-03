@@ -13,5 +13,6 @@
   "larshp/codemirror-abap",
   "pvl/abap.tmbundle",
   "larshp/abaplint",
+  "SAP/styleguides",
   "ilyakaznacheev/abap-best-practice"
 ]
