@@ -118,5 +118,6 @@
   "abapChaoLiu/abap_seltab_to_where",
   "engswee/equalize-idoc-framework",
   "isisdanismanlik/NamespaceChanger",
-  "hhelibeb/geohash-abap"
+  "hhelibeb/geohash-abap",
+  "css-ch/abap-code-quality-analyzer"
 ]
