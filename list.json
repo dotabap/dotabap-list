@@ -119,5 +119,6 @@
   "engswee/equalize-idoc-framework",
   "isisdanismanlik/NamespaceChanger",
   "hhelibeb/geohash-abap",
-  "css-ch/abap-code-quality-analyzer"
+  "css-ch/abap-code-quality-analyzer",
+  "mkysoft/xlsxreader"
 ]
