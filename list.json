@@ -120,5 +120,6 @@
   "isisdanismanlik/NamespaceChanger",
   "hhelibeb/geohash-abap",
   "css-ch/abap-code-quality-analyzer",
-  "mkysoft/xlsxreader"
+  "mkysoft/xlsxreader",
+  "watson-developer-cloud/abap-sdk-nwas"
 ]
