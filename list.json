@@ -121,5 +121,6 @@
   "hhelibeb/geohash-abap",
   "css-ch/abap-code-quality-analyzer",
   "mkysoft/xlsxreader",
-  "watson-developer-cloud/abap-sdk-nwas"
+  "watson-developer-cloud/abap-sdk-nwas",
+  "00500500/abap-archiving-engine"
 ]
