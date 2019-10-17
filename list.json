@@ -122,5 +122,6 @@
   "css-ch/abap-code-quality-analyzer",
   "mkysoft/xlsxreader",
   "watson-developer-cloud/abap-sdk-nwas",
+  "hhelibeb/blowfish-abap",
   "00500500/abap-archiving-engine"
 ]
