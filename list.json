@@ -34,6 +34,7 @@
   "pacroy/abap-fluentd",
   "SAP2Moose/SAP2Moose",
   "swixfort/Sdw.Abap.Di",
+  "tricktresor/cute",
   "damir-majer/ABAPKoans",
   "cesar-sap/abap_geocoder_ces",
   "SAP-samples/abap-alv-google-upload-sheet",
