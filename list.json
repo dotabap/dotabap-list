@@ -124,5 +124,6 @@
   "mkysoft/xlsxreader",
   "watson-developer-cloud/abap-sdk-nwas",
   "hhelibeb/blowfish-abap",
-  "00500500/abap-archiving-engine"
+  "00500500/abap-archiving-engine",
+  "OlegBash599/ZCTS_BROWSER"
 ]
