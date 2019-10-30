@@ -18,5 +18,6 @@
   "pvl/abap.tmbundle",
   "larshp/abaplint",
   "SAP/styleguides",
-  "ilyakaznacheev/abap-best-practice"
+  "ilyakaznacheev/abap-best-practice",
+  "kgorin8/adt_transport_copy_plugin"
 ]
