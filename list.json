@@ -127,7 +127,7 @@
   "watson-developer-cloud/abap-sdk-nwas",
   "hhelibeb/geohash-abap",  
   "hhelibeb/blowfish-abap",
-  "hhelibeb/abap-data-validation",
+  "hhelibeb/abap-data-validator",
   "00500500/abap-archiving-engine",
   "OlegBash599/ZCTS_BROWSER",
   "OlegBash599/CallABAP_samples",
