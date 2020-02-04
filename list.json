@@ -132,5 +132,6 @@
   "00500500/abap-archiving-engine",
   "OlegBash599/ZCTS_BROWSER",
   "OlegBash599/CallABAP_samples",
-  "abapinho/abapBlame"
+  "abapinho/abapBlame",
+  "bunysae/abap_db_preparator"
 ]
