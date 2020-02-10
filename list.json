@@ -133,5 +133,7 @@
   "OlegBash599/ZCTS_BROWSER",
   "OlegBash599/CallABAP_samples",
   "abapinho/abapBlame",
-  "bunysae/abap_db_preparator"
+  "bunysae/abap_db_preparator",
+  "benmeijs/ABAPforHana",
+  "benmeijs/ABAPVNSG2019"
 ]
