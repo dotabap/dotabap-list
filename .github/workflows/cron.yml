@@ -1,0 +1,38 @@
+name: Cron
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+    - name: test
+      env:
+        GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+        
+        
+- cd ..
+- git clone https://github.com/dotabap/dotabap-validator.git
+- git clone https://github.com/dotabap/dotabap-generated.git
+- cd dotabap-validator
+- npm install
+- npm ls
+- cd ..
+script:
+- dotabap-validator/generate dotabap-list/list.json $GITHUB_READ > dotabap-generated/generated.json
+# - dotabap-validator/validator dotabap-list/related.json $GITHUB_READ -n > dotabap-generated/related.json
+after_success:
+- cd dotabap-generated
+- git status
+- git config --global user.email "builds@travis-ci.com"
+- git config --global user.name "Travis CI"
+- git add -A
+- git status
+- git commit -m "Travis build $TRAVIS_BUILD_NUMBER"
+- git push -q https://$GITHUB_WRITE@github.com/dotabap/dotabap-generated.git > /dev/null 2>&1
+  
