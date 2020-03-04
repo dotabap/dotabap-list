@@ -1,0 +1,36 @@
+name: Cron
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+    - name: run
+      env:
+        MY_TOKEN: ${{ secrets.MY_TOKEN }}
+      run: |
+        cd ..
+        git clone https://github.com/dotabap/dotabap-validator.git
+        git clone https://github.com/dotabap/dotabap-generated.git
+        cd dotabap-validator
+        npm install
+        npm ls
+        cd ..
+        dotabap-validator/generate dotabap-list/list.json $MY_TOKEN > dotabap-generated/generated.json
+        cd dotabap-generated
+        git status
+        git config --global user.email "actions@github.com"
+        git config --global user.name "Actions CI"
+        git add -A
+        git status
+        git commit -m "Automatic Build"
+        git push -q https://$MY_TOKEN@github.com/dotabap/dotabap-generated.git > /dev/null 2>&1
+  

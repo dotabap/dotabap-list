@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/dotabap/dotabap-list.svg?branch=master)](https://travis-ci.org/dotabap/dotabap-list)
-
 # dotabap-list
 
 Requirements:
