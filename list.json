@@ -135,5 +135,6 @@
   "abapinho/abapBlame",
   "bunysae/abap_db_preparator",
   "benmeijs/ABAPforHana",
+  "abaplint/abaplint-abap-backend",
   "benmeijs/ABAPVNSG2019"
 ]
