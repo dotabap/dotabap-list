@@ -141,5 +141,5 @@
   "abaplint/abaplint-abap-backend",
   "benmeijs/ABAPVNSG2019",
   "ysichov/SDE",
-  "https://github.com/abapChaoLiu/abap_jwt_generator"
+  "abapChaoLiu/abap_jwt_generator"
 ]
