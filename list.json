@@ -145,7 +145,7 @@
   "abapinho/abapBlame",
   "bunysae/abap_db_preparator",
   "benmeijs/ABAPforHana",
-  "abaplint/abaplint-abap-backend",
+  "abaplint/abaplint-sci-client",
   "benmeijs/ABAPVNSG2019",
   "ysichov/SDE",
   "abapChaoLiu/abap_jwt_generator"
