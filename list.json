@@ -150,5 +150,6 @@
   "abaplint/abaplint-sci-client",
   "benmeijs/ABAPVNSG2019",
   "ysichov/SDE",
-  "abapChaoLiu/abap_jwt_generator"
+  "abapChaoLiu/abap_jwt_generator",
+  "marianfoo/ztoad"
 ]
