@@ -4,9 +4,11 @@
   "tricktresor/gladius",
   "ivanfemia/abap2gapps",
   "ivanfemia/abap2oauth2",
+  "stockbal/abap-tags-backend",
   "abapGit/ADT_Backend",
   "xinitrc86/adash-services",
   "koemaeda/abap-markdown",
+  "peyn/IDoc-with-ABAP-OOP",
   "SAP-samples/abap-file-uploader",
   "tricktresor/guidrasil",
   "SAP-samples/cloud-abap-rap",
@@ -26,6 +28,7 @@
   "gregorwolf/abapOAuthAzure",
   "1DSAG/ATC-Best-Practice-Guide",
   "sbcgua/abap_gui_boilerplate",
+  "sbcgua/ajson",
   "FreHu/abap-turtle-graphics",
   "SAP-samples/abap-platform-yy",  
   "SAP-samples/abap-platform-jak",
@@ -145,8 +148,9 @@
   "abapinho/abapBlame",
   "bunysae/abap_db_preparator",
   "benmeijs/ABAPforHana",
-  "abaplint/abaplint-abap-backend",
+  "abaplint/abaplint-sci-client",
   "benmeijs/ABAPVNSG2019",
   "ysichov/SDE",
-  "abapChaoLiu/abap_jwt_generator"
+  "abapChaoLiu/abap_jwt_generator",
+  "marianfoo/ztoad"
 ]
