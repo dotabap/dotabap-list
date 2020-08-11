@@ -154,5 +154,6 @@
   "benmeijs/ABAPVNSG2019",
   "ysichov/SDE",
   "abapChaoLiu/abap_jwt_generator",
-  "marianfoo/ztoad"
+  "marianfoo/ztoad",
+  "agiguere/SCPmsPushNotificationREST_API"
 ]
