@@ -155,5 +155,6 @@
   "ysichov/SDE",
   "abapChaoLiu/abap_jwt_generator",
   "marianfoo/ztoad",
-  "agiguere/SCPmsPushNotificationREST_API"
+  "agiguere/SCPmsPushNotificationREST_API",
+  "uxkjaer/featureswitch"
 ]
