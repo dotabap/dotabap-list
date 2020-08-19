@@ -7,6 +7,7 @@
   "stockbal/abap-tags-backend",
   "abapGit/ADT_Backend",
   "xinitrc86/adash-services",
+  "AntonSikidin/zmacros",
   "koemaeda/abap-markdown",
   "peyn/IDoc-with-ABAP-OOP",
   "SAP-samples/abap-file-uploader",
