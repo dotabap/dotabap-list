@@ -157,5 +157,6 @@
   "abapChaoLiu/abap_jwt_generator",
   "marianfoo/ztoad",
   "agiguere/SCPmsPushNotificationREST_API",
-  "uxkjaer/featureswitch"
+  "uxkjaer/featureswitch",
+  "xamafe/RFC_TOOLS"
 ]
