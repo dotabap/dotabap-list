@@ -112,7 +112,7 @@
   "larshp/abapNTLM",
   "larshp/abapPGP",
   "sbcgua/mockup_loader",
-  "sbcgua/abap_data_parser",
+  "sbcgua/text2tab",
   "sbcgua/abap_include_assembler",
   "sbcgua/abap_mustache",
   "sbcgua/abap_w3mi_poller",
