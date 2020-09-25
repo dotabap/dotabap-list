@@ -34,7 +34,7 @@
   "sbcgua/abap_gui_boilerplate",
   "sbcgua/ajson",
   "FreHu/abap-turtle-graphics",
-  "SAP-samples/abap-platform-yy",  
+  "SAP-samples/abap-platform-yy",
   "SAP-samples/abap-platform-jak",
   "SAP-samples/abap-oo-basics",
   "SAP/ewm-cloud-robotics-s4",
@@ -143,7 +143,7 @@
   "css-ch/abap-code-quality-analyzer",
   "mkysoft/xlsxreader",
   "watson-developer-cloud/abap-sdk-nwas",
-  "hhelibeb/geohash-abap",  
+  "hhelibeb/geohash-abap",
   "hhelibeb/blowfish-abap",
   "hhelibeb/abap-data-validator",
   "00500500/abap-archiving-engine",
@@ -159,5 +159,6 @@
   "marianfoo/ztoad",
   "agiguere/SCPmsPushNotificationREST_API",
   "uxkjaer/featureswitch",
-  "xamafe/RFC_TOOLS"
+  "xamafe/RFC_TOOLS",
+  "SAP/project-odense"
 ]
