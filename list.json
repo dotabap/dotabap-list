@@ -1,5 +1,6 @@
 [
   "flaiker/abap-log",
+  "tmhew/abap-aws-sigv4",
   "epeterson320/ABAP-Logger",
   "tricktresor/gladius",
   "ivanfemia/abap2gapps",
