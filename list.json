@@ -147,6 +147,7 @@
   "hhelibeb/geohash-abap",
   "hhelibeb/blowfish-abap",
   "hhelibeb/abap-data-validator",
+  "hhelibeb/abap-fm-logger",
   "00500500/abap-archiving-engine",
   "OlegBash599/ZCTS_BROWSER",
   "OlegBash599/CallABAP_samples",
