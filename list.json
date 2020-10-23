@@ -5,6 +5,7 @@
   "tricktresor/gladius",
   "ivanfemia/abap2gapps",
   "ivanfemia/abap2oauth2",
+  "larshp/abap-wasm",
   "stockbal/abap-tags-backend",
   "sbcgua/abap-string-map",
   "abapGit/ADT_Backend",
