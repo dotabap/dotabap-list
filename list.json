@@ -165,5 +165,6 @@
   "xamafe/RFC_TOOLS",
   "SAP/project-odense",
   "reyemsaibot/qtt",
-  "d023604/open-location-code-abap"
+  "d023604/open-location-code-abap",
+  "Goala/abap-log-exporter"
 ]
