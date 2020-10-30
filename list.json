@@ -7,6 +7,8 @@
   "ivanfemia/abap2oauth2",
   "larshp/abap-wasm",
   "stockbal/abap-tags-backend",
+  "keremkoseoglu/addict",
+  "keremkoseoglu/ticksys",
   "sbcgua/abap-string-map",
   "abapGit/ADT_Backend",
   "xinitrc86/adash-services",
