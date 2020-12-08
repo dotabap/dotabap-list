@@ -161,6 +161,7 @@
   "abaplint/abaplint-sci-client",
   "benmeijs/ABAPVNSG2019",
   "ysichov/Simple-Data-Explorer",
+  "ysichov/HR_DME",
   "abapChaoLiu/abap_jwt_generator",
   "marianfoo/ztoad",
   "agiguere/SCPmsPushNotificationREST_API",
