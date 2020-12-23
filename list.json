@@ -171,5 +171,6 @@
   "reyemsaibot/qtt",
   "d023604/open-location-code-abap",
   "Goala/abap-log-exporter",
-  "openTCT/zotct_utils"
+  "openTCT/zotct_utils",
+  "striezl/VariScan"
 ]
