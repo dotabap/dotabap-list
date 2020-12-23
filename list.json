@@ -14,6 +14,7 @@
   "xinitrc86/adash-services",
   "AntonSikidin/zmacros",
   "koemaeda/abap-markdown",
+  "albanleong/abapteachablemachine",
   "peyn/IDoc-with-ABAP-OOP",
   "SAP-samples/abap-file-uploader",
   "AkyshBaymuhammedov/ADT_TODO_Plugin_ABAP",
@@ -160,6 +161,7 @@
   "abaplint/abaplint-sci-client",
   "benmeijs/ABAPVNSG2019",
   "ysichov/Simple-Data-Explorer",
+  "ysichov/HR_DME",
   "abapChaoLiu/abap_jwt_generator",
   "marianfoo/ztoad",
   "agiguere/SCPmsPushNotificationREST_API",
@@ -170,5 +172,6 @@
   "d023604/open-location-code-abap",
   "Goala/abap-log-exporter",
   "openTCT/zotct_utils",
-  "coreline/ZDDIC_FINDER"
+  "coreline/ZDDIC_FINDER",
+  "striezl/VariScan"
 ]
