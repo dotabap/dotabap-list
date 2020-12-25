@@ -173,5 +173,6 @@
   "Goala/abap-log-exporter",
   "openTCT/zotct_utils",
   "coreline/ZDDIC_FINDER",
+  "coreline/ZUML_DIAGRAM",
   "striezl/VariScan"
 ]
