@@ -174,5 +174,6 @@
   "openTCT/zotct_utils",
   "coreline/ZDDIC_FINDER",
   "coreline/ZUML_DIAGRAM",
+  "germanysources/regression_test",
   "striezl/VariScan"
 ]
