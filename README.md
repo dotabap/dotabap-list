@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/dotabap/dotabap-list.svg?branch=master)](https://travis-ci.org/dotabap/dotabap-list)
-
 # dotabap-list
 
 Requirements:
@@ -10,6 +8,8 @@ Requirements:
 * abapGit based
 * Open source license(https://opensource.org/licenses) or SAP sample code license
 * Hosted on GitHub(more git based hosts to be added later)
+
+Add new projects by changing https://github.com/dotabap/dotabap-list/blob/master/list.json via a pull request, after merged it might take up to 24 hours to show up on the website.
 
 Access via: http://list.dotabap.org/list.json
 

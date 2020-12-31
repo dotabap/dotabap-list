@@ -155,7 +155,6 @@
   "00500500/abap-archiving-engine",
   "OlegBash599/ZCTS_BROWSER",
   "OlegBash599/CallABAP_samples",
-  "OlegBash599/ZC8A_001",
   "abapinho/abapBlame",
   "bunysae/abap_db_preparator",
   "benmeijs/ABAPforHana",
@@ -176,5 +175,6 @@
   "coreline/ZDDIC_FINDER",
   "coreline/ZUML_DIAGRAM",
   "germanysources/regression_test",
-  "striezl/VariScan"
+  "striezl/VariScan",
+  "OlegBash599/ZC8A_001"
 ]
