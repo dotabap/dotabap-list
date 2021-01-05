@@ -176,5 +176,6 @@
   "coreline/ZUML_DIAGRAM",
   "germanysources/regression_test",
   "striezl/VariScan",
-  "OlegBash599/ZC8A_001"
+  "OlegBash599/ZC8A_001",
+  "Goala/abap-metrics-provider"
 ]
