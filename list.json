@@ -7,6 +7,7 @@
   "ivanfemia/abap2oauth2",
   "larshp/abap-wasm",
   "stockbal/abap-tags-backend",
+  "stockbal/abap-db-browser",
   "keremkoseoglu/addict",
   "keremkoseoglu/ticksys",
   "sbcgua/abap-string-map",
