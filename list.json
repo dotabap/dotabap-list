@@ -171,14 +171,14 @@
   "SAP/project-odense",
   "reyemsaibot/qtt",
   "d023604/open-location-code-abap",
-  "Goala/abap-log-exporter",
+  "abap-observability-tools/abap-log-exporter",
   "openTCT/zotct_utils",
   "coreline/ZDDIC_FINDER",
   "coreline/ZUML_DIAGRAM",
   "germanysources/regression_test",
   "striezl/VariScan",
   "OlegBash599/ZC8A_001",
-  "Goala/abap-metrics-provider",
+  "abap-observability-tools/abap-metrics-provider",
   "victorizbitskiy/zconcurrency_api",
   "appknight/dump_info"
 ]
