@@ -5,6 +5,7 @@
   "tricktresor/gladius",
   "ivanfemia/abap2gapps",
   "ivanfemia/abap2oauth2",
+  "abap-openapi/abap-openapi-client",
   "DerGuteWolf/ABAP_TRANSLATION_HUB",
   "larshp/abap-wasm",
   "stockbal/abap-tags-backend",
