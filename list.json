@@ -184,5 +184,6 @@
   "victorizbitskiy/zconcurrency_api",
   "appknight/dump_info",
   "bothzoli/ABAP-IoC-Container",
-  "OberstVonGatow/AbapGenerator"
+  "OberstVonGatow/AbapGenerator",
+  "abap-observability-tools/abap-trace-tender"
 ]
