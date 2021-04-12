@@ -175,6 +175,7 @@
   "d023604/open-location-code-abap",
   "abap-observability-tools/abap-log-exporter",
   "openTCT/zotct_utils",
+  "openTCT/zotcttr_ef",
   "coreline/ZDDIC_FINDER",
   "coreline/ZUML_DIAGRAM",
   "germanysources/regression_test",
