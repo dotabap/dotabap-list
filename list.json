@@ -186,5 +186,6 @@
   "appknight/dump_info",
   "bothzoli/ABAP-IoC-Container",
   "OberstVonGatow/AbapGenerator",
-  "abap-observability-tools/abap-trace-tender"
+  "abap-observability-tools/abap-trace-tender",
+  "71tech/ODIN"
 ]
