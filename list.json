@@ -187,5 +187,6 @@
   "bothzoli/ABAP-IoC-Container",
   "OberstVonGatow/AbapGenerator",
   "abap-observability-tools/abap-trace-tender",
-  "71tech/ODIN"
+  "71tech/ODIN",
+  "intelira/AttachmentCommentODataService"
 ]
