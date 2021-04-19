@@ -30,7 +30,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/main'
       with:
-        deploy_key: ${{ secrets.DEPLOY_DOTABAP_GENERATEDY }}
+        deploy_key: ${{ secrets.DEPLOY_DOTABAP_GENERATED }}
         external_repository: dotabap/dotabap-generated
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'        
