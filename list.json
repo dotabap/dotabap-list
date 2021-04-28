@@ -150,6 +150,7 @@
   "isisdanismanlik/NamespaceChanger",
   "mkysoft/xlsxreader",
   "watson-developer-cloud/abap-sdk-nwas",
+  "watson-developer-cloud/abap-sdk-scp",
   "hhelibeb/geohash-abap",
   "hhelibeb/blowfish-abap",
   "hhelibeb/abap-data-validator",
