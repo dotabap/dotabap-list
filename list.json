@@ -183,6 +183,7 @@
   "OlegBash599/ZC8A_001",
   "abap-observability-tools/abap-metrics-provider",
   "victorizbitskiy/zconcurrency_api",
+  "victorizbitskiy/zspool_pdf",
   "appknight/dump_info",
   "bothzoli/ABAP-IoC-Container",
   "OberstVonGatow/AbapGenerator",
