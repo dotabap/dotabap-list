@@ -190,5 +190,6 @@
   "abap-observability-tools/abap-trace-tender",
   "71tech/ODIN",
   "intelira/AttachmentCommentODataService",
-  "cavabap/abapTableCompare"
+  "cavabap/abapTableCompare",
+  "cavabap/batch-input-helper"
 ]
