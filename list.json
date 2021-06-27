@@ -192,5 +192,6 @@
   "intelira/AttachmentCommentODataService"
   "intelira/AttachmentCommentODataService",
   "cavabap/abapTableCompare",
-  "cavabap/batch-input-helper"
+  "cavabap/batch-input-helper",
+  "intelira/WorkItem-Display"
 ]
