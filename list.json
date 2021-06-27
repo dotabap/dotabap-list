@@ -191,5 +191,6 @@
   "71tech/ODIN",
   "intelira/AttachmentCommentODataService",
   "cavabap/abapTableCompare",
-  "cavabap/batch-input-helper"
+  "cavabap/batch-input-helper",
+  "intelira/WorkItem-Display"
 ]
