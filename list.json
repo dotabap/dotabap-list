@@ -10,6 +10,7 @@
   "larshp/abap-wasm",
   "stockbal/abap-tags-backend",
   "stockbal/abap-db-browser",
+  "AntonSikidin/elitechat",
   "keremkoseoglu/addict",
   "keremkoseoglu/ticksys",
   "sbcgua/abap-string-map",
@@ -148,7 +149,6 @@
   "abapChaoLiu/abap_seltab_to_where",
   "engswee/equalize-idoc-framework",
   "isisdanismanlik/NamespaceChanger",
-  "css-ch/abap-code-quality-analyzer",
   "mkysoft/xlsxreader",
   "watson-developer-cloud/abap-sdk-nwas",
   "hhelibeb/geohash-abap",
@@ -183,10 +183,14 @@
   "OlegBash599/ZC8A_001",
   "abap-observability-tools/abap-metrics-provider",
   "victorizbitskiy/zconcurrency_api",
+  "victorizbitskiy/zspool_pdf",
   "appknight/dump_info",
   "bothzoli/ABAP-IoC-Container",
   "OberstVonGatow/AbapGenerator",
   "abap-observability-tools/abap-trace-tender",
   "71tech/ODIN",
   "intelira/AttachmentCommentODataService"
+  "intelira/AttachmentCommentODataService",
+  "cavabap/abapTableCompare",
+  "cavabap/batch-input-helper"
 ]
