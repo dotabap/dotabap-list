@@ -193,5 +193,6 @@
   "intelira/AttachmentCommentODataService",
   "cavabap/abapTableCompare",
   "cavabap/batch-input-helper",
-  "intelira/WorkItem-Display"
+  "intelira/WorkItem-Display",
+  "srijan9864/zrfcread"
 ]
