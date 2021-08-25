@@ -20,7 +20,7 @@
   "highlightjs/highlightjs-sap-abap",
   "lemaiwo/FioriAdmin",
   "pvl/abap.tmbundle",
-  "larshp/abaplint",
+  "abaplint/abaplint",
   "SAP/styleguides",
   "ilyakaznacheev/abap-best-practice",
   "kgorin8/adt_transport_copy_plugin",
