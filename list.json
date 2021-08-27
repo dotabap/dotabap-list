@@ -194,5 +194,6 @@
   "cavabap/abapTableCompare",
   "cavabap/batch-input-helper",
   "intelira/WorkItem-Display",
-  "srijan9864/zrfcread"
+  "srijan9864/zrfcread",
+  "xinitrc86/zthread"
 ]
