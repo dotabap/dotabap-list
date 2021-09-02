@@ -195,5 +195,6 @@
   "xinitrc86/zthread",
   "ycohen-dev/hcm-time-constraint-utils",
   "ysichov/HR_DME",
-  "ysichov/Simple-Data-Explorer"
+  "ysichov/Simple-Data-Explorer",
+  "preinboth/abapHtmlButton"
 ]
