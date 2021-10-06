@@ -197,5 +197,6 @@
   "ycohen-dev/hcm-time-constraint-utils",
   "ysichov/HR_DME",
   "ysichov/Simple-Data-Explorer",
-  "preinboth/abapHtmlButton"
+  "preinboth/abapHtmlButton",
+  "DryDumbHead/easyHtmlEmail"
 ]
