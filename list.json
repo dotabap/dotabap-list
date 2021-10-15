@@ -203,5 +203,7 @@
   "boy0korea/ABAP2XLSX_HELPER",
   "boy0korea/ZFPM_TOOLS",
   "boy0korea/ZWD_CALENDAR_VH",
-  "boy0korea/ZWD_CODE_SCANNER"
+  "boy0korea/ZWD_CODE_SCANNER",
+  "abapGames/minesweeper",
+  "abap-code-dojo/abapdicer"
 ]
