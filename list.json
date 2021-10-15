@@ -205,5 +205,7 @@
   "boy0korea/ZWD_CALENDAR_VH",
   "boy0korea/ZWD_CODE_SCANNER",
   "abapGames/minesweeper",
-  "abap-code-dojo/abapdicer"
+  "abap-code-dojo/abapdicer",
+  "reyemsaibot/scf",
+  "reyemsaibot/table_compare"
 ]
