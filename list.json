@@ -207,5 +207,6 @@
   "abapGames/minesweeper",
   "abap-code-dojo/abapdicer",
   "reyemsaibot/scf",
-  "reyemsaibot/table_compare"
+  "reyemsaibot/table_compare",
+  "mkysoft/xlsxreader"
 ]
