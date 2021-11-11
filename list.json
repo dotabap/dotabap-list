@@ -208,5 +208,6 @@
   "abap-code-dojo/abapdicer",
   "reyemsaibot/scf",
   "reyemsaibot/table_compare",
-  "mkysoft/zstrust"
+  "mkysoft/zstrust",
+  "franzreitmayer/ABAP_LOGGING"
 ]
