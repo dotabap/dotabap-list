@@ -209,5 +209,6 @@
   "reyemsaibot/scf",
   "reyemsaibot/table_compare",
   "mkysoft/zstrust",
-  "franzreitmayer/ABAP_LOGGING"
+  "franzreitmayer/ABAP_LOGGING",
+  "uweku/Vise_for_ABAP"
 ]
