@@ -151,7 +151,7 @@
   "SAP/ewm-cloud-robotics-s4",
   "SAP/project-odense",
   "SAP2Moose/SAP2Moose",
-  "sapmentors/abap2xlsx",
+  "abap2xlsx/abap2xlsx",
   "sbcgua/abap_gui_boilerplate",
   "sbcgua/abap_include_assembler",
   "sbcgua/abap_mustache",
