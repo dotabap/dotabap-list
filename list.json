@@ -210,5 +210,6 @@
   "reyemsaibot/table_compare",
   "mkysoft/zstrust",
   "franzreitmayer/ABAP_LOGGING",
-  "uweku/Vise_for_ABAP"
+  "uweku/Vise_for_ABAP",
+  "BiberM/ABAPParallelizationService"
 ]
