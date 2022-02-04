@@ -212,6 +212,6 @@
   "mkysoft/zstrust",
   "franzreitmayer/ABAP_LOGGING",
   "uweku/Vise_for_ABAP",
-  "BiberM/ABAPParallelizationService"
+  "BiberM/ABAPParallelizationService",
   "SchwarzIT/sap-usi-logging-api"
 ]
