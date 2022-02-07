@@ -13,6 +13,7 @@
   "abapGit/ADT_Backend",
   "abapGit/background_modes",
   "abapGit/ci_tools",
+  "open-abap/open-table-maintenance",
   "abapinho/abaK",
   "abapinho/abapTimeMachine",
   "abapkochbuch/Sources",
