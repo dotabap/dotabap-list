@@ -214,5 +214,7 @@
   "franzreitmayer/ABAP_LOGGING",
   "uweku/Vise_for_ABAP",
   "BiberM/ABAPParallelizationService",
-  "SchwarzIT/sap-usi-logging-api"
+  "SchwarzIT/sap-usi-logging-api",
+  "SchwarzIT/sap-usi-exception",
+  "SchwarzIT/sap-usi-authority-check"
 ]
