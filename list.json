@@ -6,7 +6,7 @@
   "abap-observability-tools/abap-log-exporter",
   "abap-observability-tools/abap-metrics-provider",
   "abap-observability-tools/abap-trace-tender",
-  "abap-openapi/abap-openapi-client",
+  "abap-openapi/abap-openapi",
   "abapChaoLiu/abap_jwt_generator",
   "abapChaoLiu/abap_seltab_to_where",
   "abapGit/abapGit",
