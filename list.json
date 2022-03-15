@@ -142,6 +142,7 @@
   "reyemsaibot/qtt",
   "rulerunner/rulerunner4ABAP",
   "sandraros/abap-CSR",
+  "SAP/abap-file-formats-tools",
   "sap-russia/ZRS_ABAP_SOURCE_SCAN",
   "SAP-samples/abap-alv-google-upload-sheet",
   "SAP-samples/abap-file-uploader",
