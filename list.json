@@ -11,6 +11,7 @@
   "abapChaoLiu/abap_seltab_to_where",
   "abapGit/abapGit",
   "abapGit/ADT_Backend",
+  "fmabap/AMDP_Pretty_Printer",
   "abapGit/background_modes",
   "abapGit/ci_tools",
   "open-abap/open-table-maintenance",
