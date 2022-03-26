@@ -201,7 +201,7 @@
   "ycohen-dev/hcm-time-constraint-utils",
   "ysichov/HR_DME",
   "ysichov/Simple-Data-Explorer",
-  "preinboth/abapHtmlButton",
+  "abapTools/abapHtmlButton",
   "DryDumbHead/easyHtmlEmail",
   "boy0korea/abap2json",
   "boy0korea/ABAP2XLSX_HELPER",
@@ -218,5 +218,6 @@
   "BiberM/ABAPParallelizationService",
   "SchwarzIT/sap-usi-logging-api",
   "SchwarzIT/sap-usi-exception",
-  "SchwarzIT/sap-usi-authority-check"
+  "SchwarzIT/sap-usi-authority-check",
+  "abapTools/abapDomCheck"
 ]

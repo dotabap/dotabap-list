@@ -24,5 +24,6 @@
   "SAP/styleguides",
   "ilyakaznacheev/abap-best-practice",
   "kgorin8/adt_transport_copy_plugin",
-  "abapChaoLiu/abap_syntax_notepad_pp"
+  "abapChaoLiu/abap_syntax_notepad_pp",
+  "abapTools/abapTmpl"
 ]
