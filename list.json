@@ -48,6 +48,7 @@
   "cesar-sap/abap_geocoder_ces",
   "cesar-sap/abap_kafka_rest_proxy",
   "christianguenter2/ABAP_conways_game_of_life",
+  "christianguenter2/ABAP_DeepL_client",
   "christianguenter2/abapRegexGolf",
   "coreline/ZDDIC_FINDER",
   "coreline/ZUML_DIAGRAM",
