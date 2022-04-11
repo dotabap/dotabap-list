@@ -220,5 +220,6 @@
   "SchwarzIT/sap-usi-logging-api",
   "SchwarzIT/sap-usi-exception",
   "SchwarzIT/sap-usi-authority-check",
-  "abapTools/abapDomCheck"
+  "abapTools/abapDomCheck",
+  "thedoginthewok/abapMermaid"
 ]
