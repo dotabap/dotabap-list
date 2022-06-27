@@ -221,5 +221,5 @@
   "SchwarzIT/sap-usi-authority-check",
   "abapTools/abapDomCheck",
   "thedoginthewok/abapMermaid",
-  "https://github.com/jrodriguez-rc/abap-ishmed-api-browser"
+  "jrodriguez-rc/abap-ishmed-api-browser"
 ]
