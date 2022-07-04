@@ -222,5 +222,6 @@
   "abapTools/abapDomCheck",
   "thedoginthewok/abapMermaid",
   "jrodriguez-rc/abap-ishmed-api-browser",
-  "abapify/promise"
+  "abapify/promise",
+  "OlegBash599/AnyTabUpdateTask"
 ]
