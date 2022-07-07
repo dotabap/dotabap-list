@@ -223,5 +223,6 @@
   "thedoginthewok/abapMermaid",
   "jrodriguez-rc/abap-ishmed-api-browser",
   "abapify/promise",
-  "OlegBash599/AnyTabUpdateTask"
+  "OlegBash599/AnyTabUpdateTask",
+  "valdirmendesdev/abap-json-encoder-decoder"
 ]
