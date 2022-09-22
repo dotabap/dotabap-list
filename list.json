@@ -224,5 +224,6 @@
   "jrodriguez-rc/abap-ishmed-api-browser",
   "abapify/promise",
   "OlegBash599/AnyTabUpdateTask",
-  "valdirmendesdev/abap-json-encoder-decoder"
+  "valdirmendesdev/abap-json-encoder-decoder",
+  "geert-janklaps/abap-openapi-ui"
 ]
