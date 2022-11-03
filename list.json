@@ -227,6 +227,6 @@
   "abapify/promise",
   "OlegBash599/AnyTabUpdateTask",
   "valdirmendesdev/abap-json-encoder-decoder",
-  "geert-janklaps/abap-openapi-ui"
-  "/ZEdwin/ZTCT"
+  "geert-janklaps/abap-openapi-ui",
+  "ZEdwin/ZTCT"
 ]
