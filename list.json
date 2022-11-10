@@ -229,5 +229,6 @@
   "valdirmendesdev/abap-json-encoder-decoder",
   "geert-janklaps/abap-openapi-ui",
   "ZEdwin/ZTCT",
+  "Raketenstart/abap-feature-toggle",
   "Raketenstart/abap-tvarvc"
 ]
