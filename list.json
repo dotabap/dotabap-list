@@ -228,5 +228,6 @@
   "OlegBash599/AnyTabUpdateTask",
   "valdirmendesdev/abap-json-encoder-decoder",
   "geert-janklaps/abap-openapi-ui",
-  "ZEdwin/ZTCT"
+  "ZEdwin/ZTCT",
+  "Raketenstart/abap-tvarvc"
 ]
