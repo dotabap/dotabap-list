@@ -231,5 +231,6 @@
   "geert-janklaps/abap-openapi-ui",
   "ZEdwin/ZTCT",
   "Raketenstart/abap-feature-toggle",
-  "Raketenstart/abap-tvarvc"
+  "Raketenstart/abap-tvarvc",
+  "tf-Lukas-Klausner/abapdocs-code-scanner"
 ]
