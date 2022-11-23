@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Use Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
     - name: run
       env:
         MY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -33,7 +33,7 @@ jobs:
         deploy_key: ${{ secrets.DEPLOY_DOTABAP_GENERATED }}
         external_repository: dotabap/dotabap-generated
         user_name: 'github-actions[bot]'
-        user_email: 'github-actions[bot]@users.noreply.github.com'        
+        user_email: 'github-actions[bot]@users.noreply.github.com'
         publish_branch: main
         cname: generated.dotabap.org
         publish_dir: ../dotabap-generated
