@@ -165,6 +165,7 @@
   "raketenstart-abap/abap-tvarvc",
   "rayatus/sapbugtracker",
   "rayatus/sapinterfacemonitor",
+  "rayatus/abapgit-commitlint",
   "reyemsaibot/qtt",
   "reyemsaibot/scf",
   "reyemsaibot/table_compare",
