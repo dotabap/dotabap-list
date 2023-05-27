@@ -23,6 +23,7 @@
   "abaplint/abaplint-sci-client",
   "abapTools/abapDomCheck",
   "abapTools/abapHtmlButton",
+  "abeljohny/ZAP",
   "aditheos/AttachmentCommentODataService",
   "aditheos/WorkItem-Display",
   "agiguere/SCPmsPushNotificationREST_API",
