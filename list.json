@@ -122,6 +122,7 @@
   "keremkoseoglu/addict",
   "keremkoseoglu/ticksys",
   "koemaeda/abap-markdown",
+  "kseretis/abap-metrics",
   "larshp/ABAP-Object-Visualizer",
   "larshp/ABAP-Swagger",
   "larshp/abap-wasm",
@@ -245,5 +246,7 @@
   "ysichov/HR_DME",
   "ysichov/Simple-Data-Explorer",
   "ZEdwin/ZTCT",
+  "zenrosadira/abap-tbox-stats",
+  "zenrosadira/abap-tbox-csvman",
   "stud0709/z_doom"
 ]
