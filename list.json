@@ -87,6 +87,7 @@
   "fidley/Customers",
   "fidley/falv",
   "fidley/JSON2ABAPType",
+  "fleischr/abap-nft",
   "fmabap/AMDP_Pretty_Printer",
   "franzreitmayer/ABAP_LOGGING",
   "FreHu/abap-turtle-graphics",
