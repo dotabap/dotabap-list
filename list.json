@@ -250,5 +250,6 @@
   "zenrosadira/abap-tbox-stats",
   "zenrosadira/abap-tbox-csvman",
   "stud0709/z_doom",
-  "jrgkraus/abap-alv-struc-viewer"
+  "jrgkraus/abap-alv-struc-viewer",
+  "alwinvandeput/zscv_search_cds_views"
 ]
