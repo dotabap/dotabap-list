@@ -137,7 +137,7 @@
   "kseretis/abap-metrics",
   "larshp/ABAP-Object-Visualizer",
   "larshp/ABAP-Swagger",
-  "larshp/abap-wasm",
+  "abap-wasm/abap-wasm",
   "larshp/abapCov",
   "larshp/abapGitServer",
   "larshp/abapNTLM",
