@@ -24,5 +24,6 @@
   "SAP/styleguides",
   "sapmentors/SAPlink",
   "trockenasche/SAPScript-for-Notepad-plusplus",
-  "trr-official/abapunit2junit"
+  "trr-official/abapunit2junit",
+  "SAP/abap-cleaner"
 ]
