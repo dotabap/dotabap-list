@@ -114,6 +114,8 @@
   "hhelibeb/abap-fm-logger",
   "hhelibeb/blowfish-abap",
   "hhelibeb/geohash-abap",
+  "IBM/abap-sdk-nwas-x",
+  "IBM/abap-sdk-btp-x",
   "INVIXO/abapMQ",
   "irodrigob/alv_utilities",
   "isisdanismanlik/NamespaceChanger",
