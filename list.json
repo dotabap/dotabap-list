@@ -277,5 +277,6 @@
   "jrgkraus/abap-alv-struc-viewer",
   "alwinvandeput/zscv_search_cds_views",
   "abap2UI5-apps/table-content-loader",
-  "abap2UI5-apps/abap-sql-console"
+  "abap2UI5-apps/abap-sql-console",
+  "abapify/assert"
 ]
