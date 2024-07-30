@@ -278,5 +278,9 @@
   "alwinvandeput/zscv_search_cds_views",
   "abap2UI5-apps/table-content-loader",
   "abap2UI5-apps/abap-sql-console",
-  "abapify/assert"
+  "abapify/assert",
+  "abapify/throw",
+  "abapify/fetch",
+  "abapify/fetch-cloud",
+  "abapify/fetch-legacy"
 ]
