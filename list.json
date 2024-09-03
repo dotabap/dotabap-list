@@ -282,5 +282,6 @@
   "abapify/throw",
   "abapify/fetch",
   "abapify/fetch-cloud",
-  "abapify/fetch-legacy"
+  "abapify/fetch-legacy",
+  "RegestaItalia/trm-server"
 ]
