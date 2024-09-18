@@ -284,5 +284,6 @@
   "abapify/fetch",
   "abapify/fetch-cloud",
   "abapify/fetch-legacy",
-  "RegestaItalia/trm-server"
+  "RegestaItalia/trm-server",
+  "bryanmcain/zcode_scanner"
 ]
