@@ -280,6 +280,7 @@
   "abap2UI5-apps/table-content-loader",
   "abap2UI5-apps/abap-sql-console",
   "abap2UI5-apps/SM30",
+  "abap2UI5-apps/SE16",
   "abapify/assert",
   "abapify/throw",
   "abapify/fetch",
