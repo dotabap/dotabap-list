@@ -288,6 +288,6 @@
   "abapify/fetch-legacy",
   "RegestaItalia/trm-server",
   "bryanmcain/zcode_scanner",
-  "wozjac/abap-sencha"
+  "wozjac/abap-sencha",
   "bluefunda/abap-odata-test"
 ]
