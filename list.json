@@ -216,6 +216,8 @@
   "SAP-samples/abap-platform-yy",
   "SAP-samples/cloud-abap-exchange-rates",
   "SAP-samples/security-services-tools",
+  "SAP-samples/cloud-abap-rap",
+  "SAP-samples/abap-platform-fiori-feature-showcase",  
   "SAP/abap-file-formats-tools",
   "SAP/code-pal-for-abap",
   "SAP2Moose/SAP2Moose",
