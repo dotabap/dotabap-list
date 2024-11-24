@@ -29,5 +29,6 @@
   "trockenasche/SAPScript-for-Notepad-plusplus",
   "trr-official/abapunit2junit",
   "SAP/abap-cleaner",
-  "RegestaItalia/trm-client"
+  "RegestaItalia/trm-client",
+  "WeiKKJ/zcl_bi_data_auth"
 ]
