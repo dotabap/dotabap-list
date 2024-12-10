@@ -16,6 +16,9 @@
   "larshp/codemirror-abap",
   "lemaiwo/FioriAdmin",
   "lucattelli/ab4-themes",
+  "Marc-Bernard-Tools/ABAP-Diff3-Tests",
+  "Marc-Bernard-Tools/ABAP-Language-Syntax",
+  "Marc-Bernard-Tools/ABAP-Markdown-Tests",
   "marcellourbani/vscode_abap_remote_fs",
   "pascalerni/abap2famix",
   "pvl/abap.tmbundle",
@@ -24,5 +27,7 @@
   "SAP/styleguides",
   "sapmentors/SAPlink",
   "trockenasche/SAPScript-for-Notepad-plusplus",
-  "trr-official/abapunit2junit"
+  "trr-official/abapunit2junit",
+  "SAP/abap-cleaner",
+  "RegestaItalia/trm-client"
 ]
