@@ -296,5 +296,6 @@
   "bryanmcain/zcode_scanner",
   "wozjac/abap-sencha",
   "bluefunda/abap-odata-test",
-  "rob786541/ValueObjects"
+  "rob786541/ValueObjects",
+  "abap-ai/llm_client"
 ]
