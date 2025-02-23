@@ -299,5 +299,6 @@
   "rob786541/ValueObjects",
   "abap-ai/llm_client",
   "abapify/case",
-  "abapify/json"
+  "abapify/json",
+  "abapify/codepage"
 ]
