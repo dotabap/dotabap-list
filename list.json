@@ -28,6 +28,7 @@
   "abapTools/abapDomCheck",
   "aditheos/AttachmentCommentODataService",
   "aditheos/WorkItem-Display",
+  "aditheos/ApplicationLogsNotificationToFiori",
   "agiguere/SCPmsPushNotificationREST_API",
   "AkyshBaymuhammedov/ADT_TODO_Plugin_ABAP",
   "alaible/dbg_value_statement",
