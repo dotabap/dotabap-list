@@ -305,5 +305,6 @@
   "abap-ai/llm_client",
   "abapify/case",
   "abapify/json",
-  "abapify/codepage"
+  "abapify/codepage",
+  "abap-ai/mcp"
 ]
