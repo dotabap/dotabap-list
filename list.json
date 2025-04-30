@@ -287,6 +287,7 @@
   "jrgkraus/abap-gencust",
   "jrgkraus/abap-ui-tools",
   "jrgkraus/tool-bi",
+  "jrgkraus/zotr_utility",
   "alwinvandeput/zscv_search_cds_views",
   "abap2UI5-addons/table-content-loader",
   "abap2UI5-addons/sql-console",
