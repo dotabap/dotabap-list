@@ -288,6 +288,7 @@
   "jrgkraus/abap-ui-tools",
   "jrgkraus/tool-bi",
   "jrgkraus/zotr_utility",
+  "jrgkraus/abap_zrange",
   "alwinvandeput/zscv_search_cds_views",
   "abap2UI5-addons/table-content-loader",
   "abap2UI5-addons/sql-console",
