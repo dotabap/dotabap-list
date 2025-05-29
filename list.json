@@ -308,5 +308,6 @@
   "abapify/case",
   "abapify/json",
   "abapify/codepage",
-  "abap-ai/mcp"
+  "abap-ai/mcp",
+  "mariokernich/odapu-abap"
 ]
