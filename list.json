@@ -1,6 +1,7 @@
 [
   "greltel/ABAP-PROJECTS",
   "greltel/ABAP-Cloud-Logger",
+  "greltel/ABAP-Point-Gate",
   "00500500/abap-archiving-engine",
   "1DSAG/ATC-Best-Practice-Guide",
   "71tech/ODIN",
