@@ -307,7 +307,7 @@
   "abap2UI5-addons/table-content-loader",
   "abap2UI5-addons/sql-console",
   "abap2UI5-addons/table-maintenance",
-  "oblomov-dev/abap-util",
+  "abap-util/abap-util",
   "abapify/assert",
   "abapify/throw",
   "abapify/fetch",
