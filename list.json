@@ -323,5 +323,13 @@
   "abapify/json",
   "abapify/codepage",
   "abap-ai/mcp",
-  "mariokernich/odapu-abap"
+  "mariokernich/odapu-abap",
+  "furkancosgun/abap-sapui5-notebook",
+  "furkancosgun/XFC-Toolkit",
+  "furkancosgun/ZWARP",
+  "furkancosgun/Transport-Management-Tool",
+  "furkancosgun/ABAP_DATABASE_MANAGER",
+  "furkancosgun/EITHER-FOR-ABAP",
+  "furkancosgun/COROUTINES4ABAP",
+  "furkancosgun/ABAP-CACHE-BOX"
 ]
