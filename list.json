@@ -331,5 +331,5 @@
   "furkancosgun/EITHER-FOR-ABAP",
   "furkancosgun/COROUTINES4ABAP",
   "furkancosgun/ABAP-CACHE-BOX",
-  "equinor//sap-sapscript"
+  "equinor/sap-sapscript"
 ]
