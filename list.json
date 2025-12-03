@@ -330,5 +330,6 @@
   "furkancosgun/ABAP_DATABASE_MANAGER",
   "furkancosgun/EITHER-FOR-ABAP",
   "furkancosgun/COROUTINES4ABAP",
-  "furkancosgun/ABAP-CACHE-BOX"
+  "furkancosgun/ABAP-CACHE-BOX",
+  "equinor//sap-sapscript"
 ]
