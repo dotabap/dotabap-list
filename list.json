@@ -185,6 +185,7 @@
   "mkysoft/uid64",
   "mkysoft/xlsxreader",
   "mkysoft/zstrust",
+  "monstermichl/HandlebarsABAP",
   "nomssi/abap_scheme",
   "OberstVonGatow/AbapGenerator",
   "objective-partner/abap_debugger_data_view_extension",
