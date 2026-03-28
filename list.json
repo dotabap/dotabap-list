@@ -3,6 +3,7 @@
   "greltel/abap-projects",
   "greltel/abap-cloud-logger",
   "greltel/abap-point-gate",
+  "greltel/abap-dynamic-assignment",
   "00500500/abap-archiving-engine",
   "1DSAG/ATC-Best-Practice-Guide",
   "71tech/ODIN",
