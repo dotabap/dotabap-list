@@ -166,6 +166,7 @@
   "abapPM/ABAP-Diff3",
   "abapPM/ABAP-HTML-Diff",
   "abapPM/ABAP-Strust",
+  "MagPasulke/abap-string-interpreter",
   "Marc-Bernard-Tools/ABAP-Tools-for-abapGit",
   "Marc-Bernard-Tools/abaplint-Ext-for-abapGit",
   "Marc-Bernard-Tools/MBT-Command-Field",
