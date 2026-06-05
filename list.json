@@ -338,5 +338,6 @@
   "furkancosgun/COROUTINES4ABAP",
   "furkancosgun/ABAP-CACHE-BOX",
   "equinor/sap-sapscript",
-  "eplamsi/ork_core"
+  "eplamsi/ork_core",
+  "agraeber/cdsanalyser",
 ]
