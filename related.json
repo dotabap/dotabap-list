@@ -30,5 +30,6 @@
   "trr-official/abapunit2junit",
   "SAP/abap-cleaner",
   "RegestaItalia/trm-client",
-  "WeiKKJ/zcl_bi_data_auth"  
+  "WeiKKJ/zcl_bi_data_auth",
+  "palimkarakshay/abap-mcp"
 ]
