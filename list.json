@@ -102,7 +102,6 @@
   "fidley/falv",
   "fidley/JSON2ABAPType",
   "fleischr/abap-nft",
-  "fmabap/AMDP_Pretty_Printer",
   "franzreitmayer/ABAP_LOGGING",
   "FreHu/abap-turtle-graphics",
   "furlan/abap101_AOC2017",
@@ -337,7 +336,8 @@
   "furkancosgun/EITHER-FOR-ABAP",
   "furkancosgun/COROUTINES4ABAP",
   "furkancosgun/ABAP-CACHE-BOX",
-  "equinor/sap-sapscript",
+  "equinor/sap-ca-sapscript",
   "eplamsi/ork_core",
-  "agraeber/cdsanalyser"
+  "agraeber/cdsanalyser",
+  "palimkarakshay/ABAP-Utilities"
 ]
