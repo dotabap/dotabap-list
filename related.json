@@ -5,6 +5,7 @@
   "abaplint/abaplint",
   "andau/abap-code-insight",
   "andau/abapCI",
+  "distherion/abap-coding-standards",
   "esjewett/ABAPCDSGrammar",
   "fidley/ABAPFavorites",
   "FreHu/abap-snippets",
