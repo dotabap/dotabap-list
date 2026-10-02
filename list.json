@@ -341,7 +341,6 @@
   "eplamsi/ork_core",
   "agraeber/cdsanalyser",
   "palimkarakshay/ABAP-Utilities",
-  "furkancosgun/abap-ai-sdk",
   "furkancosgun/abap-graphql",
   "furkancosgun/abap-decision-tree",
   "furkancosgun/tiny-pdf-abap",
