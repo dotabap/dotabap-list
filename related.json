@@ -33,5 +33,6 @@
   "SAP/abap-cleaner",
   "RegestaItalia/trm-client",
   "WeiKKJ/zcl_bi_data_auth",
-  "palimkarakshay/abap-mcp"
+  "palimkarakshay/abap-mcp",
+  "lenny8a/sextante"
 ]
