@@ -362,5 +362,6 @@
   "furkancosgun/via-api",
   "furkancosgun/abap-jev-client",
   "furkancosgun/abap2react",
-  "furkancosgun/abaplit"
+  "furkancosgun/abaplit",
+  "KorhanKara/abap-clean-core-successors"
 ]
